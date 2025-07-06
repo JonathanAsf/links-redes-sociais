@@ -116,3 +116,11 @@ body {
 .btn-link:nth-child(5) {
   background-color: #e97979;
 }
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #1e2e3e;
+  color: white;
+  font-size: 14px;
+}
