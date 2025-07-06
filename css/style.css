@@ -127,5 +127,6 @@ body {
 
 .btn-link:hover {
   cursor: pointer;
-  background-color: #1e2e3e;
+  background-color: #8fbcc7;
+  transition-duration: 500ms;
 }
